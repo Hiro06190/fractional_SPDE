@@ -269,15 +269,3 @@ contains raw histogram-density samples.
 The corresponding metadata file records the dimensions, observation times,
 and storage layout.
 
-## Notes
-
-The codes are intended primarily to reproduce and inspect the numerical
-experiments reported in the paper rather than to provide an optimized
-general-purpose simulation package.
-
-Because random seeds are generated at runtime, independent runs do not in
-general produce bitwise-identical samples. Statistical quantities should,
-however, agree within sampling error.
-=======
-# fractional_SPDE
->>>>>>> f37babfcc33d463ce17fb9998d7bafba59ecd66e
