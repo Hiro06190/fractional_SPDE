@@ -105,9 +105,6 @@ source file.
 These include the stability index, time step, number of time steps, number of
 independent realizations, effective particle number, and spatial grid size.
 
-Some of the parameter choices used for the simulations in the paper are
-computationally expensive.
-
 ## Output files
 
 The programs generate several groups of output files.
@@ -266,6 +263,4 @@ samples_u_particles.bin
 
 contains raw histogram-density samples.
 
-The corresponding metadata file records the dimensions, observation times,
-and storage layout.
-
+The corresponding metadata file records the dimensions and observation times.
