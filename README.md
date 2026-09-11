@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fractional_SPDE
 
 Numerical simulation codes for the paper
@@ -277,3 +278,6 @@ general-purpose simulation package.
 Because random seeds are generated at runtime, independent runs do not in
 general produce bitwise-identical samples. Statistical quantities should,
 however, agree within sampling error.
+=======
+# fractional_SPDE
+>>>>>>> f37babfcc33d463ce17fb9998d7bafba59ecd66e
