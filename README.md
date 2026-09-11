@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # fractional_SPDE
 
 Numerical simulation codes for the paper
